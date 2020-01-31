@@ -11,3 +11,6 @@ https://test-d7a1d.web.app/#foo
 
 # Gra Logiczna 
 https://gra-logiczna.web.app/
+
+# Clone Sensible Soccer
+https://mariuszonik.github.io/sensibleCloneInUnity/

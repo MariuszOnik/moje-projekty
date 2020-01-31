@@ -1,5 +1,4 @@
-# Test wyszukiwania sciezki na mapie hexagonalnej mapy unity
-
+# Test wyszukiwania sciezki na mapie hexagonalnej - unity
 https://mariuszonik.github.io/unity_test_1/
 
 # Aplikacja do nauki angielskiego 

@@ -1,5 +1,5 @@
 # Test wyszukiwania sciezki na mapie hexagonalnej - unity
-https://mariuszonik.github.io/unity_test_1/
+https://mariuszonik.github.io/moje-projekty/
 # 
 pliki źródłowe skryptów znajduja sie w katalogu scripts
 

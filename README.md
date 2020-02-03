@@ -15,5 +15,6 @@ https://gra-logiczna.web.app/
 # Clone Sensible Soccer
 https://mariuszonik.github.io/sensibleCloneInUnity/
 
-# Zainspirowany artykółem :  https://medium.com/js-dojo/build-a-real-time-chat-app-with-vuejs-socket-io-and-nodejs-714c8eefa54e
+# Prosty czas oparty na  vue po stronie klienta oraz socekt.io i express po stronie servera 
+zainspirowany artykółem https://medium.com/js-dojo/build-a-real-time-chat-app-with-vuejs-socket-io-and-nodejs-714c8eefa54e
 postanowiłem wdrożyć prosty czat na moim serwrze vps, chodizło o nauke konfiguracji nginx jako serwera proxy, skorzystałem też z menedżera  procesów pm2 : https://pm2.keymetrics.io/docs/usage/quick-start/, aplikacja znajduje sie pod adresem : http://.onikweb.pl

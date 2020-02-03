@@ -10,6 +10,7 @@ link do działającej aplikacji
 https://test-d7a1d.web.app/#foo
 
 # Gra Logiczna 
+napisana w JavaScript
 https://gra-logiczna.web.app/
 
 # Clone Sensible Soccer

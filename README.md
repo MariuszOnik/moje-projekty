@@ -13,6 +13,7 @@ https://test-d7a1d.web.app/#foo
 https://gra-logiczna.web.app/
 
 # Clone Sensible Soccer
+Sterowanie: strzał(spacja), poruszanie(klawisze kierunkowe);
 https://mariuszonik.github.io/sensibleCloneInUnity/
 
 # Prosta aplikacja czatu w czasie rzeczywistym 

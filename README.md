@@ -23,3 +23,6 @@ zainspirowany artykułem https://medium.com/js-dojo/build-a-real-time-chat-app-w
 
 postanowiłem wdrożyć prosty czat na moim serwrze vps, chodziło o naukę konfiguracji nginx jako serwera proxy, skorzystałem też z menedżera  procesów pm2 : https://pm2.keymetrics.io/docs/usage/quick-start/, 
 aplikacja znajduje sie pod adresem : http://onikweb.pl
+
+#my music
+https://github.com/MariuszOnik/MyMusicPlayer

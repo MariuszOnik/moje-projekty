@@ -1,3 +1,6 @@
+# Zadanie rekrutacyjne na Unity Junior Developer
+https://github.com/MariuszOnik/RekrutacjaProjekt
+
 # Test wyszukiwania sciezki na mapie hexagonalnej - unity
 https://mariuszonik.github.io/moje-projekty/
 # 

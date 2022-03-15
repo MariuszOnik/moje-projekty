@@ -1,4 +1,4 @@
-#Aplikacja typu Kiosk dla Muzeum w Częstochowie
+# Aplikacja typu Kiosk dla Muzeum w Częstochowie
 https://mariuszonik.github.io/MuseumCz-stochowaApp/
 
 # Zadanie rekrutacyjne na Unity Junior Developer

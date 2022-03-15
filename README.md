@@ -1,4 +1,9 @@
 # Aplikacja typu Kiosk dla Muzeum w Częstochowie
+Aplikacja powstała pod konkretne urządzenie jako tzw "Info Kiosk" (Raspberry pi 4) i monitor dotykowy o rozdzielczości 
+1920x1080, Aplikacja nie sklauje się do innych rozdzielozośći dlatego aby uruchomiła się poprawnie na 
+monitorach badź urządzeniach o innej specyfikacji ekranu proszę np. w przeglądarce Chrome 
+w systemie Windosw otworzyć DevTools Kliknąć przycisk Toggle Device Toolbar oraz ustawic 
+rozdzielczość emulowanego urządzenia na 1920x1080
 https://mariuszonik.github.io/MuseumCz-stochowaApp/
 
 # Zadanie rekrutacyjne na Unity Junior Developer

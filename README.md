@@ -4,6 +4,7 @@ Aplikacja powstała pod konkretne urządzenie jako tzw. "Info Kiosk" (Raspberry 
 monitorach bądź urządzeniach o innej specyfikacji ekranu proszę np. w przeglądarce Chrome
 w systemie Windows otworzyć DevTools Kliknąć przycisk Toggle Device Toolbar oraz ustawić
 rozdzielczość emulowanego urządzenia na 1920x1080
+
 https://mariuszonik.github.io/MuseumCz-stochowaApp/
 
 # Zadanie rekrutacyjne na Unity Junior Developer
